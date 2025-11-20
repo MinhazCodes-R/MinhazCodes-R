@@ -9,7 +9,7 @@
 
 ### 👤 About Me
 - 🌱 Computer Engineering @ McMaster University (2023-2027)
-- 🛠️ Software Intern | Web Dev @ IEEE | Robotics Software Lead
+- 🛠️ Software Intern @ Ericsson | Web Dev @ IEEE | Robotics Software Lead @ McMaster's Drone Team
 - 🌎 Building full-stack projects, smart home tech, and autonomous drones
 - 🌟 Fun facts: I love working out, cooking, and programming late at night!
 
