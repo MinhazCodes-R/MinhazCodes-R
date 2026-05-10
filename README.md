@@ -15,21 +15,6 @@
 
 ---
 
-### 💼 Experience
-
-- **PointClickCare** — SWE Intern, Clinical Platform *(May 2026 – Aug 2026)*  
-  Building clinical features on a Java / Spring Boot / React platform on Azure Kubernetes
-- **Ericsson** — SWE Intern, AI/ML Systems *(Jan 2026 – Apr 2026)*  
-  Built a Python/R caching layer + distributed PySpark pipeline (1M+ Parquet files/day) for telecom KPI data on AWS
-- **Ericsson** — SWE Intern, Cloud RAN Observability *(Sep 2025 – Dec 2025)*  
-  Built a Go + OpenTelemetry pipeline streaming Kafka to PostgreSQL & VictoriaMetrics (10M+ logs/day)
-- **Taylor Systems** — Engineering Lead *(May 2025 – Aug 2025)*  
-  Led a 10-engineer team; built a real-time WebSocket IoT backend + C++ Modbus / RS-485 libraries for industrial devices
-- **McMaster Aerial Robotics** — Software Team Lead *(Jan 2025 – Aug 2025)*  
-  Led a 16-engineer team building a real-time CV pipeline (OpenCV + YOLO / PyTorch) for autonomous drone obstacle avoidance
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages:**  
