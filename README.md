@@ -1,6 +1,6 @@
 ### Hi there, I'm Minhazur Rakin! ✨
 
-[![Resume](https://img.shields.io/badge/-Resume-grey?style=for-the-badge&logo=readme)](https://www.minhazcodes.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-grey?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.minhazcodes.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/minhazur-rakin)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakinm@mcmaster.ca)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MinhazCodes-R)
@@ -9,9 +9,24 @@
 
 ### 👤 About Me
 - 🌱 Computer Engineering @ McMaster University (2023–2027)
-- 💼 Currently SWE Intern @ PointClickCare · Previously Engineering Lead @ Taylor Systems · 2× SWE Intern @ Ericsson (AI/ML Systems, Cloud RAN Observability) · Software Lead @ McMaster's Drone Team
 - 🌎 Working across enterprise Java, distributed data pipelines, IoT/firmware, and full-stack web — and building tools for myself along the way
+- 🌐 Personal site: [minhazcodes.com](https://www.minhazcodes.com)
 - 🌟 Fun facts: I love working out, cooking, and programming late at night!
+
+---
+
+### 💼 Experience
+
+- **PointClickCare** — SWE Intern, Clinical Platform *(May 2026 – Aug 2026)*  
+  Building clinical features on a Java / Spring Boot / React platform on Azure Kubernetes
+- **Ericsson** — SWE Intern, AI/ML Systems *(Jan 2026 – Apr 2026)*  
+  Built a Python/R caching layer + distributed PySpark pipeline (1M+ Parquet files/day) for telecom KPI data on AWS
+- **Ericsson** — SWE Intern, Cloud RAN Observability *(Sep 2025 – Dec 2025)*  
+  Built a Go + OpenTelemetry pipeline streaming Kafka to PostgreSQL & VictoriaMetrics (10M+ logs/day)
+- **Taylor Systems** — Engineering Lead *(May 2025 – Aug 2025)*  
+  Led a 10-engineer team; built a real-time WebSocket IoT backend + C++ Modbus / RS-485 libraries for industrial devices
+- **McMaster Aerial Robotics** — Software Team Lead *(Jan 2025 – Aug 2025)*  
+  Led a 16-engineer team building a real-time CV pipeline (OpenCV + YOLO / PyTorch) for autonomous drone obstacle avoidance
 
 ---
 
